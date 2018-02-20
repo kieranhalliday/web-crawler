@@ -11,5 +11,5 @@ with open('allit.html') as fp:
     print(browser.find_elements_by_class_name('download-links'))
 
 
-    browser.find_elements_by_class_name("download-links")[1].click()
+    browser.find_elements_by_class_name("download-links")[0].click()
     
