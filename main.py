@@ -1,3 +1,7 @@
-''' Hello World '''
+from bs4 import BeautifulSoup
 
-import bs4
+with open('allit.html') as fp:
+    soup = BeautifulSoup(fp, 'lxml')
+
+
+    
