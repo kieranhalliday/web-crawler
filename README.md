@@ -1,4 +1,4 @@
 # web-crawler
 
-Experimental python work with Jason
+Experimental python work with Jason for school
 
